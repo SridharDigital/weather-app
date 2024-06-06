@@ -15,7 +15,6 @@
   color: red;
 }
 
-/* SearchBox.css */
 .form {
   display: flex;
   justify-content: center;
@@ -47,7 +46,6 @@
   left: 10px;
   width: 20px;
   height: 20px;
-  /* background: url("path/to/icon.png") no-repeat center center; */
   background-size: contain;
 }
 
